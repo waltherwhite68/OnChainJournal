@@ -34,4 +34,4 @@ logEntry("deployed my first contract on Base and started journaling")
 - Farcaster integration
 
 ## Status
-Active and improving
+Active and improving 
