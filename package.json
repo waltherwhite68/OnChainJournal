@@ -1,0 +1,11 @@
+{
+  "name": "onchain-journal",
+  "version": "1.0.0",
+  "description": "On-chain journal with streak and XP system",
+  "scripts": {
+    "test": "echo "no test""
+  },
+  "devDependencies": {
+    "hardhat": "^2.22.0"
+  }
+}
